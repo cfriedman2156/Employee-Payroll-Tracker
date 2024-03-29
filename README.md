@@ -7,9 +7,8 @@ I was tasked with developing the JS for a web app that tracks employee salaries.
 ## Usage
 
 To add a new employee, simply click the "Add Employees" button. You will be prompted to add a first name, last name and salary. After you may choose to add another employee or quit. The information will be updated onto a spreadsheet. Open the console to find the average salary and random employee assigned to the night shift.
-```md
-    ![Website screenshot](Assets/screenshot.png?raw=true)
-```
+
+![Screenshot](./Assets/screenshot.png)   
 
 ## License
 
